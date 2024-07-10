@@ -4,7 +4,7 @@
   },
   "name": "jason-server-backend",
   "version": "1.0.0",
-  "description": "json-server",
+  "description": "json-server - updated for feature -2",
   "main": "index.js",
   "scripts": {
     "test": "npm start",
