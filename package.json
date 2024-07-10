@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  },
+  "name": "jason-server-backend",
+  "version": "1.0.0",
+  "description": "json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "json-server --watch database.json --port 3030"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
