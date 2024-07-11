@@ -1,50 +1,9 @@
 {
-  "testcases": [
+  "products": [
     {
-      "id": "1",
-      "title": "Test case 1",
-      "description": "Test case 1 descriptsion"
-    },
-    {
-      "id": "2",
-      "title": "Test case 2",
-      "description": "Test case 2 descriptsion"
-    },
-    {
-      "id": "3",
-      "title": "Test case 3",
-      "description": "Test case 3 descriptsion edited"
-    },
-    {
-      "id": "4",
-      "title": "Test case 4",
-      "description": "Test case 4 descriptsion"
-    },
-    {
-      "id": "5",
-      "title": "Test case 5",
-      "description": "Test case 5 descriptsion"
-    },
-    {
-      "id": "6",
-      "title": "Test case 6",
-      "description": "Test case 6 descriptsion"
-    },
-    {
-      "id": "7",
-      "title": "Test case 7",
-      "description": "Test case 7 descriptsion"
-    },
-    {
-      "id": "8",
-      "title": "Test case 8",
-      "description": "Test case 8 descriptsion"
-    },
-    {
-      "title": "Test case 9",
-      "description": "Test case 9 descriptsion",
-      "published": true,
-      "id": "9"
+      "id": "ead6",
+      "title": "product 1",
+      "description": "Product 1 description edited"
     }
   ]
 }
